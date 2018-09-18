@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="zh-hans">
+  <head>
+    <title>南昌大学 - 电子设计竞赛基地</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!--
+	<link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,700,800" rel="stylesheet">
+	-->
+	
+	<link href="css/gstatic_fonts.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.css">
+	
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<link rel="stylesheet" href="css/aos.css">
+
+	<link rel="stylesheet" href="css/ionicons.min.css">
+
+	<link rel="stylesheet" href="css/bootstrap-datepicker.css">
+	<link rel="stylesheet" href="css/jquery.timepicker.css">
+
+	
+	<link rel="stylesheet" href="css/flaticon.css">
+	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- test -->
+	<link rel="stylesheet" href="css/blueimp-gallery.min.css">
+	
+  </head>
+  <body>
+    
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+      <div class="container">
+	<a class="navbar-brand" href="index.html">NCUED</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="oi oi-menu"></span> 菜单
+	</button>
+
+	<div class="collapse navbar-collapse" id="ftco-nav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active"><a href="index.html" class="nav-link">主页</a></li>
+            <li class="nav-item"><a href="#footer" class="nav-link">关于</a></li>
+
+	    <!--
+		<li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
+		-->
+
+		<!--
+		    <li class="nav-item dropdown">
+		      <a class="nav-link dropdown-toggle" href="portfolio.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</a>
+		      <div class="dropdown-menu" aria-labelledby="dropdown04">
+			<a class="dropdown-item" href="portfolio.html">Portfolio</a>
+			<a class="dropdown-item" href="portfolio-single.html">Portfolio Single</a>
+		      </div>
+		    </li>
+            <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li>
+	    -->
+
+            <li class="nav-item"><a href="#footer" class="nav-link">联系我们</a></li>
+            <li class="nav-item cta"><a href="#submit_form" class="nav-link"><span>开始报名</span></a></li>
+          </ul>
+	</div>
+      </div>
+    </nav>
+    <!-- END nav -->
+    
+    <!-- <div class="js-fullheight"> -->
+      <div class="hero-wrap js-fullheight">
+	<div class="overlay"></div>
+	<div id="particles-js"></div>
+	<div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+            <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
+
+	      <!--
+		  <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">We love to create <strong>Awesome</strong> things</h1>
+		  -->
+
+		  <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">这里是 - 南昌大学电子设计竞赛基地</h1>
+		  <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">The future is already here</h1>
+		  <br>
+		  
+              <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#submit_form" class="btn btn-primary btn-outline-white px-5 py-3">开始报名</a></p>
+
+	      <br>
+	      <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><font color="white">下拉查看更多</font></p>
+	      
+            </div>
+          </div>
+	</div>
+      </div>
+
+      <br><br><br><br>
+      <div class="bg-light">
+	<section class="ftco-section-featured ftco-animate">
+	  <div class="container-fluid" data-scrollax-parent="true">
+            <div class="row no-gutters d-flex align-items-center" data-scrollax=" properties: { translateY: '-30%'}">
+
+              <div class="col-md-6 mb-3">
+		<a class="featured-img">
+		  <div class="text-1 p-4 d-flex align-items-center">
+                    <h3>在这里，<br><span class="tag">NCU Electronic</span></h3>
+		  </div>
+		  <img src="images/1.jpg" class="img-fluid" style="width: 100%">
+		  <div class="text p-4 d-flex align-items-center">
+                    <div class="user d-flex align-items-center">
+
+		      <!--
+			  <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
+			  -->
+
+			  <h3>你将体会到电路的奇妙 (*′☉.̫☉)<br><span class="position">Design</span></h3>
+                    </div>
+		  </div>
+		</a>
+              </div>
+
+	      <div class="col-md-6 mb-3">
+		<a class="featured-img">
+		  <div class="text-1 p-4 d-flex align-items-center">
+                    <h3>在这里，<br><span class="tag">NCU Electronic</span></h3>
+		  </div>
+		  <img src="images/2.jpg" class="img-fluid" style="width: 100%">
+		  <div class="text p-4 d-flex align-items-center">
+                    <div class="user d-flex align-items-center">
+
+		      <!--
+			  <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
+			  -->
+
+			  <h3>你也能写出漂亮的代码 ( ͝° ͜ʖ͡°)つ<br><span class="position">Design</span></h3>
+                    </div>
+		  </div>
+		</a>
+              </div>
+
+	      <!--
+              <div class="col-md-7">
+		<div class="row no-gutters">
+		  <div class="col-md-12">
+                    <div class="row no-gutters d-flex align-items-end">
+
+                      <div class="col-md-8">
+			<a class="featured-img">
+			  <div class="text-1 p-4 d-flex align-items-center">
+                            <h3>在这里，<br><span class="tag">NCU Electronic</span></h3>
+			  </div>
+			  <img src="images/1.jpg" class="img-fluid" alt="">
+			  <div class="text p-4 d-flex align-items-center">
+                            <div class="user d-flex align-items-center">
+                              <h3>你可以尽情的把玩电路板 (*′☉.̫☉)<br><span class="position">Design</span></h3>
+                            </div>
+			  </div>
+			</a>
+                      </div>
+
+                      <div class="col-md-4">
+			<a class="featured-img">
+			  <div class="text-1 p-4 d-flex align-items-center">
+                            <h3>这里， <br><span class="tag">NCU Electronic</span></h3>
+			  </div>
+			  <img src="images/4.jpg" class="img-fluid" alt="">
+			  <div class="text p-4 d-flex align-items-center">
+                            <div class="user d-flex align-items-center">
+                              <h3>洋溢着喜悦与满足 (⋆ʾ ˙̫̮ ʿ⋆) <br><span class="position">Design</span></h3>
+                            </div>
+			  </div>
+			</a>
+                      </div>
+                      
+                    </div>
+		  </div>
+
+		  <div class="col-md-12">
+                    <div class="row no-gutters d-flex align-items-start">
+                      <div class="col-md-8">
+			<a class="featured-img">
+			  <div class="text-1 p-4 d-flex align-items-center">
+                            <h3>在这里，<br><span class="tag">NCU Electronic</span></h3>
+			  </div>
+			  <img src="images/2.jpg" class="img-fluid" alt="">
+			  <div class="text p-4 d-flex align-items-center">
+                            <div class="user d-flex align-items-center">
+                              <h3>你也可以通宵 "肝" 代码 ( ͝° ͜ʖ͡°)つ✂╰⋃╯ <br><span class="position">Design</span></h3>
+                            </div>
+			  </div>
+			</a>
+                      </div>
+
+                      <div class="col-md-4">
+			<a class="featured-img">
+			  <div class="text-1 p-4 d-flex align-items-center">
+                            <h3>这里， <br><span class="tag">NCU Electronic</span></h3>
+			  </div>
+			  <img src="images/3.jpg" class="img-fluid" alt="">
+			  <div class="text p-4 d-flex align-items-center">
+                            <div class="user d-flex align-items-center">
+                              <h3>充斥着温馨的情愫 ♡✧( ु•⌄• ) <br><span class="position">Design</span></h3>
+			    </div>
+			  </div>
+			</a>
+                      </div>
+                    </div>
+		  </div>
+		</div>
+              </div>
+	      -->
+
+	      <!--
+		  <div class="col-md-3">
+		    <a class="featured-img">
+		      <div class="text-1 p-4 d-flex align-items-center">
+			<h3>准备好加入我们了吗？ <br><span class="tag">NCU Electronic</span></h3>
+		      </div>
+		      <img src="images/5.jpg" class="img-fluid" alt="">
+		      <div class="text p-4 d-flex align-items-center">
+			<div class="user d-flex align-items-center">
+			  <h3>希望你们都能有一个充实、美好的大学生活！ ( •̀ω•́ )σ <br><span class="position">Design</span></h3>
+			</div>
+		      </div>
+		    </a>
+		  </div>
+		  -->
+
+            </div>
+            <div class="row mt-5 d-flex justify-content-center">
+              <div class="col-md-6 text-center heading-section ftco-animate">
+		<h2 class="h2">基地简介</h2>
+		<p>大学生电子设计竞赛训练基地（简称电赛基地）本着创新创业和竞赛两大主题进行规划和运行，承担全国大学生电子设计竞赛和江西省电子类专业竞赛的训练任务，组织学生参加“互联网+”大学生创新创业大赛、大学生智能互联创新大赛、iCAN创新创业大赛、鼓励学生积极申报大学生创新创业训练计划项目和科研训练项目，并针对竞赛开设相关创新学分课程。</p>
+		<br>
+		<p><a href="#submit_form" class="btn btn-primary mt-3 py-3 px-5">开始报名</a></p>
+              </div>
+            </div>
+	  </div>
+	</section>
+      </div>
+      
+      
+      <section class="ftco-section">
+	<div class="container">
+          <div class="row justify-content-center mb-5 pb-5">
+            <div class="col-md-6 text-center heading-section ftco-animate">
+              <span class="subheading">我们的理想</span>
+              <h2 class="mb-4">技术 &amp; 热情，改变生活</h2>
+              <p>无论你有没有接触过电子技术，只要你拥有一颗兴致盎然、渴望学习、热情饱满的心，你就能在此收获属于你的意想不到！ *~ヽ(ゝз･☆) </p>
+	      <p>电赛基地欢迎你！ </p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+              <div class="media block-6 services d-block text-center">
+		<div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-lightbulb-o"></span></div></div>
+		<div class="media-body p-2 mt-3">
+                  <h3 class="heading">思考</h3>
+                  <p>思想有多远，人就能走多远！深邃的观察洞悉能力，加上敏锐的眼光和深刻的思考，是探索未知世界的利器，是打开智慧神殿大门的金钥匙。</p>
+		</div>
+              </div>      
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+              <div class="media block-6 services d-block text-center">
+		<div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-laptop"></span></div></div>
+		<div class="media-body p-2 mt-3">
+                  <h3 class="heading">设计</h3>
+                  <p>从最简单的 NE555+CD4017 流水灯，到 51 最小系统，再到开关电源，...... 无论是软件还是硬件，设计方案的合理性都决定着最终的完成质量。</p>
+		</div>
+              </div>      
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+              <div class="media block-6 services d-block text-center">
+		<div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-gear"></span></div></div>
+		<div class="media-body p-2 mt-3">
+                  <h3 class="heading">改进</h3>
+                  <p>调 Bug 让人脑壳疼！<br> 大家总会有这样的感想。没准可能在某个报错处卡上好几天。别气馁，耐心与冷静都是电赛人要具备的品质。</p>
+		</div>
+              </div>    
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+              <div class="media block-6 services d-block text-center">
+		<div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-live_help"></span></div></div>
+		<div class="media-body p-2 mt-3">
+                  <h3 class="heading">帮助 &amp; 支持</h3>
+                  <p>学弟学妹有问题，学长学姐来帮忙 =͟͟͞͞( ✌°∀° )☛ 。礼貌地向他们提出帮助需求，和蔼可亲的他们会尽职尽责的 carry 你们哦! <br> (假装最后一行 (◐ω◑ ))</p>
+		</div>
+              </div>      
+            </div>
+          </div>
+	</div>
+      </section>
+
+      <section class="ftco-section-parallax">
+	<div class="parallax-img d-flex align-items-center">
+          <div class="container">
+            <div class="row d-flex justify-content-center">
+              <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+		<h2>加入我们的迎新群</h2>
+		<p>水群可是会被禁言的哦<br>(´◔౪◔)✂╰⋃╯<br>QQ: 538013872</p>
+		<div class="row d-flex justify-content-center mt-5">
+                  <div class="col-md-6">
+		    <img src="images/qr_code.jpg" class="img-fluid" alt="">
+                  </div>
+		</div>
+              </div>
+            </div>
+          </div>
+	</div>
+      </section>
+
+      <section class="ftco-section">
+	<div class="container">
+          <div class="row no-gutters justify-content-center mb-5 pb-5">
+            <div class="col-md-7 text-center heading-section ftco-animate">
+              <span class="subheading">作品展示</span>
+              <h2 class="mb-4">借鉴中摸索自己的方向。</h2>
+              <p>一个完整的作品，离不开同学们辛勤的汗水与迸发的创意。</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+              <a href="demo_video_0.html" class="image" style="background-image: url('images/work-4.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
+              </a>
+              <div class="text">
+		<h4 class="subheading">罗雨桑 - 作品</h4>
+		<h2 class="heading">基于硅基LED的可见光无线通信系统原型设计</h2>
+		<p>可见光通信技术，是利用荧光灯或发光二极管等发出的肉眼看不到的高速明暗闪烁信号来传输信息的，将高速因特网的电线装置连接在照明装置上，插入电源插头即可使用。利用这种技术做成的系统能够覆盖室内灯光达到的范围，电脑不需要电线连接，因而具有广泛的开发前景。本系统尚能达到的实际速度为20Mbps 。<br>2015年11月13日，经工业和信息化部测试认证，中国“可见光通信系统关键技术研究”获得重大突破，实时通信速率提高至50Gbps（比特每秒），相当于0.2秒即可完成一部高清电影的下载。</p>
+		<p><a href="demo_video_0.html" class="btn btn-primary px-4">演示视频</a></p>
+
+              </div>
+            </div>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+              <a href="demo_video_1.html" class="image image-2 order-2" style="background-image: url('images/work-5.png');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+              <div class="text order-1">
+		<h4 class="subheading">肖铭呈 - 作品</h4>
+		<h2 class="heading">穿墙雷达成像</h2>
+		<p>穿墙雷达是 20 世纪 90 年代以来将超宽带技术和合成孔径技术相结合而形成的新体制雷达。由于采用的信号带宽比较宽，具有较高的距离向分辨率，可实现对隐藏在建筑物内的恐怖分子、人质等目标的精确定位。因而，被广泛应用于安保、救援、军事等方面。</p>
+		<p><a href="demo_video_1.html" class="btn btn-primary px-4">演示视频</a></p>
+              </div>
+            </div>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+pp              <a href="demo_video_2.html" class="image" style="background-image: url('images/work-6.png'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
+              <div class="text">
+		<h4 class="subheading">张弦智，陈煊邦 - 作品</h4>
+		<h2 class="heading">独居老人智能看护系统</h2>
+		<p>系统中提出的基于毫米波雷达-机器视觉融合的判决机制，大大提升了老人摔倒识别的准确性，并融合多种传感器数据，全方位保障独居老人的生命财产安全，但对部分姿态识别准确度存在提升空间。随着毫米波雷达-机器视觉融合处理技术的不断迭代优化，除此老人看护场景外，该技术还可以广泛应用于自主无人载运操作平台、复杂无人生产加工系统、无人化作战平台等典型的社会建设需要和工业企业应用场景。</p>
+		<p><a href="demo_video_2.html" class="btn btn-primary px-4">演示视频</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <span><a href="#submit_form" class="btn btn-primary py-3 px-5">开始报名</a></span>
+            </div>
+          </div>
+	</div>
+      </section>
+
+      <!--
+	  <section class="ftco-section testimony-section bg-light">
+	    <div class="container">
+              <div class="row justify-content-center mb-5 pb-5">
+		<div class="col-md-7 text-center heading-section ftco-animate">
+		  <span class="subheading">各抒己见</span>
+		  <h2 class="mb-4">基地的小伙伴们说</h2>
+		  <p>新的学期，希望大家能够学到新的知识，兴趣是最好的老师。</p>
+		</div>
+              </div>
+              <div class="row ftco-animate">
+		<div class="col-md-12">
+		  <div class="carousel-testimony owl-carousel ftco-owl">
+		    <div class="item text-center">
+                      <div class="testimony-wrap p-4 pb-5">
+			<div class="user-img mb-4" style="background-image: url(images/person_1.jpg)">
+			  <span class="quote d-flex align-items-center justify-content-center">
+			    <i class="icon-quote-left"></i>
+			  </span>
+			</div>
+			<div class="text">
+			  <p class="mb-5">还有什么是我不会的？嗯？</p>
+			  <p class="name">罗神</p>
+			  <span class="position">基地最老的男人？</span>
+			</div>
+                      </div>
+		    </div>
+		    <div class="item text-center">
+                      <div class="testimony-wrap p-4 pb-5">
+			<div class="user-img mb-4" style="background-image: url(images/person_2.jpg)">
+			  <span class="quote d-flex align-items-center justify-content-center">
+			    <i class="icon-quote-left"></i>
+			  </span>
+			</div>
+			<div class="text">
+			  <p class="mb-5">问问肖总这儿该写啥吧 ...</p>
+			  <p class="name">肖总</p>
+			  <span class="position">厨艺一流 ＿φ(￣ー￣ )</span>
+			</div>
+                      </div>
+		    </div>
+		    <div class="item text-center">
+                      <div class="testimony-wrap p-4 pb-5">
+			<div class="user-img mb-4" style="background-image: url(images/person_3.jpg)">
+			  <span class="quote d-flex align-items-center justify-content-center">
+			    <i class="icon-quote-left"></i>
+			  </span>
+			</div>
+			<div class="text">
+			  <p class="mb-5">啦啦啦啦啦啦啦啦啦啦啦~ </p>
+			  <p class="name">还没想好是谁</p>
+			  <span class="position">༼ ᕤ◕◡◕ ༽ᕤ</span>
+			</div>
+                      </div>
+		    </div>
+		    <div class="item text-center">
+                      <div class="testimony-wrap p-4 pb-5">
+			<div class="user-img mb-4" style="background-image: url(images/person_3.jpg)">
+			  <span class="quote d-flex align-items-center justify-content-center">
+			    <i class="icon-quote-left"></i>
+			  </span>
+			</div>
+			<div class="text">
+			  <p class="mb-5">啦啦啦啦啦啦啦啦啦啦啦~ </p>
+			  <p class="name">还没想好是谁</p>
+			  <span class="position">༼ ᕤ◕◡◕ ༽ᕤ</span>
+			</div>
+                      </div>
+		    </div>
+		    <div class="item text-center">
+                      <div class="testimony-wrap p-4 pb-5">
+			<div class="user-img mb-4" style="background-image: url(images/person_3.jpg)">
+			  <span class="quote d-flex align-items-center justify-content-center">
+			    <i class="icon-quote-left"></i>
+			  </span>
+			</div>
+			<div class="text">
+			  <p class="mb-5">啦啦啦啦啦啦啦啦啦啦啦~ </p>
+			  <p class="name">还没想好是谁</p>
+			  <span class="position">༼ ᕤ◕◡◕ ༽ᕤ</span>
+			</div>
+                      </div>
+		    </div>
+		  </div>
+		</div>
+              </div>
+	    </div>
+	  </section>
+	  -->
+	  
+	  <section class="ftco-section ftco-counter" id="section-counter">
+	    <div class="container">
+              <div class="row justify-content-center mb-5 pb-5">
+		<div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+		  <h2>基地获奖情况</h2>
+		  <p>任何一种奖项都代表着全身心的付出。</p>
+		</div>
+              </div>
+              <div class="row">
+		<div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
+		  <div class="block-18 text-center">
+		    <div class="text">
+                      <strong class="number" data-number="4">0</strong>
+                      <span>国家级一等奖项</span>
+		    </div>
+		  </div>
+		</div>
+		<div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
+		  <div class="block-18 text-center">
+		    <div class="text">
+                      <strong class="number" data-number="11">0</strong>
+                      <span>国家级奖项</span>
+		    </div>
+		  </div>
+		</div>
+		<div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
+		  <div class="block-18 text-center">
+		    <div class="text">
+                      <strong class="number" data-number="100">0</strong>
+                      <span>省级/区域级奖项</span>
+		    </div>
+		  </div>
+		</div>
+              </div>
+	    </div>
+	  </section>
+
+	  <!-- test -->
+	  <div id="links" class="container">
+	    <center>
+	      <a href="images/award_0.png" title="award_0">
+		<img src="images/thumbnails/award_0.png" alt="award_0">
+	      </a>
+	      <a href="images/award_1.png" title="award_1">
+		<img src="images/thumbnails/award_1.png" alt="award_1">
+	      </a>
+	      <a href="images/award_2.png" title="award_2">
+		<img src="images/thumbnails/award_2.png" alt="award_2">
+	      </a>
+	    </center>
+	  </div>
+
+	  <section class="ftco-section bg-light">
+	    <div class="container">
+              <div class="row justify-content-center mb-5 pb-5">
+		<div class="col-md-7 text-center heading-section ftco-animate">
+		  <span class="subheading">项目相关</span>
+		  <h2>项目立项情况</h2>
+		  <p>通过实施大学生创新创业训练计划，促进高等学校转变教育思想观念，改革人才培养模式，强化创新创业能力训练，增强高校学生的创新能力和在创新基础上的创业能力，培养适应创新型国家建设需要的高水平创新人才。</p>
+		  <p>从 2014 年至今 —— </p>
+		</div>
+              </div>
+              <div class="row">
+		<div class="col-md-4 ftco-animate">
+		  <div class="blog-entry">
+		    <div class="text p-4 d-block">
+                      <h3 class="heading">国家级创新创业项目 14 项</h3>
+		    </div>
+		  </div>
+		</div>
+		<div class="col-md-4 ftco-animate">
+		  <div class="blog-entry" data-aos-delay="100">
+		    <div class="text p-4">
+                      <h3 class="heading">省级创新创业项目 4 项</h3>
+		    </div>
+		  </div>
+		</div>
+		<div class="col-md-4 ftco-animate">
+		  <div class="blog-entry" data-aos-delay="200">
+		    <div class="text p-4">
+                      <h3 class="heading">校级创新创业项目 26 项</h3>
+		    </div>
+		  </div>
+		</div>
+              </div>
+	    </div>
+	  </section><br>
+
+	  <section class="ftco-section contact-section ftco-degree-bg" id="submit_form">
+	    <div class="container bg-light">
+              <div class="row d-flex mb-5 contact-info">
+		<div class="col-md-12 mb-4">
+		  <h2 class="h4">加入我们</h2>
+		</div>
+		<div class="w-100"></div>
+		<div class="col-md-12">
+		  <p>快快填写资料报名吧 ♪(๑ᴖ◡ᴖ๑)♪</p>
+		</div>
+
+		<!--
+		    <div class="col-md-3">
+		      <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+		    </div>
+		    <div class="col-md-3">
+		      <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+		    </div>
+		    <div class="col-md-3">
+		      <p><span>Website</span> <a href="#">yoursite.com</a></p>
+		    </div>
+		    -->
+
+              </div>
+              <div class="row block-9">
+		<div class="col-md-12 pr-md-5">
+		  <form id="register_form" action="http://inncu.cn:1511/submit_registrant_info" method="post">
+		    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="你的姓名" name="name">
+		    </div>
+		    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="你的学号" name="id">
+		    </div>
+		    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="你的班级" name="class">
+		    </div>
+		    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="你的QQ" name="qq_num">
+		    </div>
+		    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="你的邮箱" name="email">
+		    </div>
+		    <div class="form-group">
+                      <textarea cols="30" rows="7" class="form-control" placeholder="你目前所拥有的技能以及感兴趣的方向（没有也没关系哦 ~）" name="skill"></textarea>
+		    </div>
+		    <div class="form-group">
+                      <input type="submit" value="提交" class="btn btn-primary py-3 px-5">
+		    </div>
+		  </form>
+		  
+		</div>
+
+		<!--
+		    <div class="col-md-6" id="map"></div>
+		    -->
+
+              </div>
+	    </div>
+	  </section>
+
+	  <footer id="footer" class="ftco-footer ftco-bg-dark ftco-section">
+	    <div class="container">
+              <div class="row mb-5">
+		<div class="col-md">
+		  <div class="ftco-footer-widget mb-4">
+		    <h2 class="ftco-heading-2">南昌大学 - 电子设计竞赛基地</h2>
+		    <p>自创立起，我们就在吸收和培养人才，基地的目标是让大家都拥有独立完成与团队合作完成项目的经验与能力，成为动手、动脑能力兼备的优秀学生。</p>
+		  </div>
+		</div>
+		<div class="col-md">
+		  <div class="ftco-footer-widget mb-4">
+		    <h2 class="ftco-heading-2">理念</h2>
+		    <p>创意、实践、分享<br>协作、包容、传承</p>
+		  </div>
+		</div>
+		<div class="col-md">
+		  <div class="ftco-footer-widget mb-4">
+		    <h2 class="ftco-heading-2">联系信息</h2>
+		    <ul class="list-unstyled">
+                      <li><a href="#footer">地点：信工楼 A212</a></li>
+                      <li><a href="#footer">QQ：3423392178</a></li>
+                      <li><a href="mailto:3423392178@qq.com">邮箱：3423392178@qq.com</a></li>
+		    </ul>
+		  </div>
+		</div>
+		<div class="col-md">
+		  <div class="ftco-footer-widget mb-4">
+		    <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
+                      <li class="ftco-animate"><a href="https://github.com/ncu-electronic"><span class="icon-github"></span></a></li>
+		    </ul>
+		  </div>
+		</div>
+              </div>
+              <div class="row">
+		<div class="col-md-12 text-center">
+
+		  <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+		    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i>
+		    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+		</div>
+              </div>
+	    </div>
+	  </footer>
+
+	  <!-- test -->
+	  <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
+	  <div id="blueimp-gallery" class="blueimp-gallery">
+	    <div class="slides"></div>
+	    <h3 class="title"></h3>
+	    <a class="prev">‹</a>
+	    <a class="next">›</a>
+	    <a class="close">×</a>
+	    <a class="play-pause"></a>
+	    <ol class="indicator"></ol>
+	  </div>
+	  
+
+	  <!-- loader -->
+	  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+	  <script src="js/jquery.min.js"></script>
+	  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+	  <script src="js/popper.min.js"></script>
+	 p <script src="js/bootstrap.min.js"></script>
+	  <script src="js/jquery.easing.1.3.js"></script>
+	  <script src="js/jquery.waypoints.min.js"></script>
+	  <script src="js/jquery.stellar.min.js"></script>
+	  <script src="js/owl.carousel.min.js"></script>
+	  <script src="js/jquery.magnific-popup.min.js"></script>
+	  <script src="js/aos.js"></script>
+	  <script src="js/jquery.animateNumber.min.js"></script>
+	  <script src="js/bootstrap-datepicker.js"></script>
+	  <script src="js/particles.min.js"></script>
+	  <script src="js/particle.js"></script>
+	  <script src="js/scrollax.min.js"></script>
+	  <script src="js/main.js"></script>
+
+	  <!-- sweetalert while submit form -->
+	  <script src="js/sweetalert.min.js"></script>
+	  <script>
+	    $(document).ready(function(){
+		$("#register_form").submit(function(){
+		    swal("提交成功！", "", "success");
+		});
+	    });
+	  </script>
+
+	  <!-- test -->
+	  <script src="js/blueimp-gallery.min.js"></script>
+	  <script>
+	    document.getElementById('links').onclick = function (event) {
+		event = event || window.event;
+		var target = event.target || event.srcElement,
+		    link = target.src ? target.parentNode : target,
+		    options = {index: link, event: event},
+		    links = this.getElementsByTagName('a');
+		blueimp.Gallery(links, options);
+	    };
+	  </script>
+	  
+  </body>
+</html>
